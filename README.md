@@ -5,4 +5,4 @@
 - 📫 How to reach me dragonsale22@gmail.com
 
 ![HexyeDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=HexyeDEV&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexyeDEV)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexyeDEV&theme=dark)
