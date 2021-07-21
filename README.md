@@ -6,3 +6,4 @@
 
 ![HexyeDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=HexyeDEV&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexyeDEV&theme=dark&layout=compact)
+![HexyeDEV's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HexyeDEV)
